@@ -6,3 +6,8 @@ Public actionresult Index()
 {
 Return view();
 }
+
+Public actionresult Cart()
+{
+Return view();
+}
