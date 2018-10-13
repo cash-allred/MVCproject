@@ -11,3 +11,8 @@ Public actionresult Cart()
 {
 Return view();
 }
+
+Public actionresult Catalogue()
+{
+Return view();
+}
